@@ -1,0 +1,11 @@
+.poke-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+  width: 50%;
+  height: 90%;
+  padding: 10px;
+  overflow: scroll;
+  background-color: #AC1E44;
+}
